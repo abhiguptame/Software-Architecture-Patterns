@@ -105,6 +105,16 @@
 - Event sourcing
 - Command Query Responsibility Segregation and Event sourcing combined
 
+#### Layered:
+- Each layer have distinguish responsibility
+- A layer called the layer below it
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Well-known among developers | Can lead to monolithic applications |
+| Easy yo organize | Need to write lots of code |
+
+
 ## 3. User Interface Patterns:
 - Model-view-controller (MVC)
 - Model-view-presenter (MVP)
