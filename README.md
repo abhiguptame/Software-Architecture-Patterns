@@ -28,6 +28,20 @@
 - Serverless
 - Peer-to-peer
 
+## 2. Application Structure Patterns:
+- Single executable
+- Can be part of a larger application landscape
+
+### Application Structure Pattern Types:
+- Layered
+- Microkernel
+- Command Query Responsibility Segregation (CQRS)
+- Event sourcing
+- Command Query Responsibility Segregation and Event sourcing combined
+
+
+
+
 
 
 
