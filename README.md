@@ -197,7 +197,18 @@
 | Separation of concerns | More difficult to debug |
 | Testability | Desktop applications are less popular |
 
+#### MVC, MVP, and MVVM: Differences
 
+| | MVC | MVP | MVVM |
+|-|-----|-----|------|
+| User Interaction Handled By | Controller | View | View |
+| Code in UI (Code Behind) | Minimal | Yes | Minimal |
+| View Aware of Moedl | Yes | Yes (Supervising Controller) No (Passive View) | No |
+| Data Binding | Basic | Basic (Supervising Controller) No (Passive View) | Advanced |
 
+#### MVC, MVP, and MVVM: Similarities
+- Decoupling view and model
+- Extra component in between
+- Increased testability
 
 
