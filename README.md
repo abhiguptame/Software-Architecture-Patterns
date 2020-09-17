@@ -189,8 +189,13 @@
 | Great for desktop application | Presenters can become bloated |
 | Separation of concerns and Testability | Desktop applications are less popular |
 
+#### Model-View-Viewmodel:
 
-
+| Advantages | Disadvantages |
+|------------|---------------|
+| Great for modern desktop and mobile applications | Overkill for simple user interfaces |
+| Separation of concerns | More difficult to debug |
+| Testability | Desktop applications are less popular |
 
 
 
