@@ -39,6 +39,10 @@
 - Event sourcing
 - Command Query Responsibility Segregation and Event sourcing combined
 
+## 3. User Interface Patterns:
+- Model-view-controller (MVC)
+- Model-view-presenter (MVP)
+- Model-view-viewmodel (MVVM)
 
 
 
