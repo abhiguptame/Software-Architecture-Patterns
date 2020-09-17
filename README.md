@@ -182,6 +182,13 @@
 | Separation of concerns | Controllers can become bloated |
 | Parallel development | Different definitions |
 
+#### Model-View-Presenter:
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Great for desktop application | Presenters can become bloated |
+| Separation of concerns and Testability | Desktop applications are less popular |
+
 
 
 
