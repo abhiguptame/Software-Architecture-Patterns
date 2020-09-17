@@ -74,6 +74,14 @@
 | Services are loosely coupled and easily scalable | Boundaries not always clear |
 | Increased agility, Reliability, Designed to handle failures | Communication patterns can become complex |
 
+#### Serverless:
+- Backend as a service
+- Function as a service
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Scaling | Libraries supports are Vendor Dependent |
+| Reduced Costs | Cold Start |
 
 ## 2. Application Structure Patterns:
 - Single executable
