@@ -83,6 +83,17 @@
 | Scaling | Libraries supports are Vendor Dependent |
 | Reduced Costs | Cold Start |
 
+#### Peer-to-peer:
+- No central server
+- No constant connection
+- Dynamically discoverable
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Sharing Resources | Possible security issues |
+| Reduced Costs | Only for specific scenarios |
+| Scaling | Nontrivial to code |
+
 ## 2. Application Structure Patterns:
 - Single executable
 - Can be part of a larger application landscape
