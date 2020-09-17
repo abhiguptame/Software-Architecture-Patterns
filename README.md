@@ -28,6 +28,19 @@
 - Serverless
 - Peer-to-peer
 
+#### Monolith:
+- Single Executable 
+
+#### Monolith: Advantages
+- Easy to understand, implement, and test
+- Easy deployment
+- Ideal for limited scope
+
+#### Monolith: Disadvantages
+- Tight coupling
+- Easily leads to complex code
+- One size fits all for every subdomain
+
 ## 2. Application Structure Patterns:
 - Single executable
 - Can be part of a larger application landscape
