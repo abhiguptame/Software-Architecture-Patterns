@@ -114,6 +114,22 @@
 | Well-known among developers | Can lead to monolithic applications |
 | Easy yo organize | Need to write lots of code |
 
+#### Microkernel:
+- Also called plug-in pattern
+
+##### User cases:
+- Task schedular
+- Workflow
+- Data processing
+- Browser extensions
+- Graphic desiner app plugins
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Flexibility | Core API might not fit future plugins |
+| Clean Separation | Can the plugins be trusted?  |
+| Separate teams possible | Not always clear what belongs in the core |
+| Add and remove functionality at runtime | Version support with applications |
 
 ## 3. User Interface Patterns:
 - Model-view-controller (MVC)
