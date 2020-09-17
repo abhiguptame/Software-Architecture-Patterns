@@ -31,15 +31,23 @@
 #### Monolith:
 - Single Executable 
 
-#### Monolith: Advantages
-- Easy to understand, implement, and test
-- Easy deployment
-- Ideal for limited scope
+| Advantages | Disadvantages |
+|------------|---------------|
+| Easy to understand, implement, and test | Tight coupling |
+| Easy deployment | Easily leads to complex code |
+| Ideal for limited scope | One size fits all for every subdomain |
 
-#### Monolith: Disadvantages
-- Tight coupling
-- Easily leads to complex code
-- One size fits all for every subdomain
+#### N-Tier:
+- Multiple tiers
+- Tier performs specific task
+- Tiers can be physically separated
+- Tiers aren't layers
+- Technical boundaries
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Independent development | Change ripple through tiers |
+| Scalability | |
 
 ## 2. Application Structure Patterns:
 - Single executable
