@@ -143,6 +143,11 @@
 | Faster and more scalable read queries | Learning curve |
 | Easier to communicate with stakeholders | Possibilities of data inconsistencies and Eventual consistency |
 
+#### Event sourcing:
+- Store events instead of current state
+- Event = something that happened in the past
+- Rehydration or replay
+
 ## 3. User Interface Patterns:
 - Model-view-controller (MVC)
 - Model-view-presenter (MVP)
