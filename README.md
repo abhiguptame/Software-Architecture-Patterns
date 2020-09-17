@@ -16,6 +16,18 @@
 2. Application Structure 
 3. User Interface
 
+## 1. Application Landscape Pattern:
+- Single application to the end user
+- Multiple applications behind the scenes possible
+
+### Application Landscape Pattern Types:
+- Monolith
+- N-tier
+- Service-oriented
+- Microservices
+- Serverless
+- Peer-to-peer
+
 
 
 
