@@ -211,4 +211,11 @@
 - Extra component in between
 - Increased testability
 
+#### MVC, MVP, and MVVM: What should we choose?
+- Web: MVC
+- Basic data binding: MVP
+- Advanced data binding: MVVM
+
+
+
 
