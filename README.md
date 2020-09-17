@@ -154,12 +154,35 @@
 | Audit trail | Event structure changes |
 | Business language and Event replay | Snapshots |
 
+#### Command Query Responsibility Segregation and Event sourcing combined:
+- Two different concepts
+- Powerful combination
 
+| Advantages | Disadvantages |
+|------------|---------------|
+| Simpler and faster queries | Added complexity |
+| Scalable | Learning curve|
+| Trace of events | Data inconsistencies |
+| Audit trail and Business language | Event structure changes |
+
+#### CQRS and/ or Event Sourcing:
+- Not for simple domains
+- Start with event sourcing 
+- Add CQRS later
 
 ## 3. User Interface Patterns:
 - Model-view-controller (MVC)
 - Model-view-presenter (MVP)
 - Model-view-viewmodel (MVVM)
+
+### Model-View-Controller:
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Separation of concerns | Controllers can become bloated |
+| Parallel development | Different definitions |
+
+
 
 
 
