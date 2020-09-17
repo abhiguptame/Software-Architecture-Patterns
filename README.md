@@ -49,6 +49,19 @@
 | Independent development | Change ripple through tiers |
 | Scalability | |
 
+#### Service-oriented
+- Multiple services
+- Each service is a business activity
+- Service composability
+- Contract standardization
+- Enterprise service bus
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Services are loosely coupled | Reduced agility and team autonomy |
+| Scalability | Costly |
+| No duplication of functionality | Many differing views |
+
 ## 2. Application Structure Patterns:
 - Single executable
 - Can be part of a larger application landscape
