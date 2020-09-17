@@ -148,6 +148,14 @@
 - Event = something that happened in the past
 - Rehydration or replay
 
+| Advantages | Disadvantages |
+|------------|---------------|
+| Trace of events | Replay and external systems |
+| Audit trail | Event structure changes |
+| Business language and Event replay | Snapshots |
+
+
+
 ## 3. User Interface Patterns:
 - Model-view-controller (MVC)
 - Model-view-presenter (MVP)
