@@ -131,6 +131,18 @@
 | Separate teams possible | Not always clear what belongs in the core |
 | Add and remove functionality at runtime | Version support with applications |
 
+#### Command Query Responsibility Segregation (CQRS):
+- Two models: read/query and write/command
+- Allows for scenario-specific queries 
+- Synchronization required
+- Different from event sourcing
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Simpler read queries | Added complexity |
+| Faster and more scalable read queries | Learning curve |
+| Easier to communicate with stakeholders | Possibilities of data inconsistencies and Eventual consistency |
+
 ## 3. User Interface Patterns:
 - Model-view-controller (MVC)
 - Model-view-presenter (MVP)
