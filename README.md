@@ -46,8 +46,7 @@
 
 | Advantages | Disadvantages |
 |------------|---------------|
-| Independent development | Change ripple through tiers |
-| Scalability | |
+| Independent development, Scalability | Change ripple through tiers |
 
 #### Service-oriented
 - Multiple services
@@ -61,6 +60,20 @@
 | Services are loosely coupled | Reduced agility and team autonomy |
 | Scalability | Costly |
 | No duplication of functionality | Many differing views |
+
+#### Microservices:
+- Multiple Services
+- Each service is a business activity
+- Teams run the service
+- No logic-heavy enterprise service bus
+- Maximum automation
+
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Services are loosely coupled and easily scalable | Boundaries not always clear |
+| Increased agility, Reliability, Designed to handle failures | Communication patterns can become complex |
+
 
 ## 2. Application Structure Patterns:
 - Single executable
